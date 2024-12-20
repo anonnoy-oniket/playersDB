@@ -1,0 +1,11 @@
+
+.col-3{
+    border: 1px solid rgb(128, 128, 128, 0.2);
+    border-radius: 10px;
+    box-shadow: 5px 5px 10px 10px rgb(128, 128, 128, 0.2);
+}
+
+.cart-btn{
+    border: none;
+    background-color: white;
+}
